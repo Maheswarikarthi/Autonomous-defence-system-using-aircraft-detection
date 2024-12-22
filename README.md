@@ -9,21 +9,40 @@ The project will also explore integration with existing aircraft systems, ensuri
 ## Features
 <!--List the features of the project as shown below-->
 •	Consistent, simple and extensible API.
+
+
 •	Minimal structure - easy to achieve the result without any frills.
+
+
 •	It supports multiple platforms and backends.
+
+
 •	It is user friendly framework which runs on both CPU and GPU.
+
+
 •	Highly scalability of computation.
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
-Software Requirements:
- Operating System	 : Windows / Linux
-	Simulation Tool  	 : Anaconda with Jupyter Notebook
-	Language		: Python
-Hardware requirements:
-	Processor   		: Intel i3
-	Hard disk  		: minimum 400 GB
-	RAM         		: minimum 4 GB
+## Software Requirements:
+•Operating System	 : Windows / Linux
+
+
+•Simulation Tool  	 : Anaconda with Jupyter Notebook
+
+
+•Language		: Python
+
+
+## Hardware requirements:
+•Processor   		: Intel i3
+
+
+•Hard disk  		: minimum 400 GB
+
+
+•RAM         		: minimum 4 GB
+
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
